@@ -17,3 +17,11 @@ The app can be used by any consumer of tangible retail products. Our target mark
 * Express
 * Formidable Module *(used to parse forms and file uploads)*
 ## Feature List
+1. Login feature
+2. Logout feature
+4. Shopping Cart *(List of products added to cart)*
+5. API return list of products relevant to search with links to that product page on Amazon
+6. Add to cart button for multiple purchases
+7. Landing page
+8. Update cart feature
+9. Delete from cart feature
