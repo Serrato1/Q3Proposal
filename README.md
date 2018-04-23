@@ -25,3 +25,4 @@ The app can be used by any consumer of tangible retail products. Our target mark
 7. Landing page
 8. Update cart feature
 9. Delete from cart feature
+10. Amazon product page link in relation to items in cart
