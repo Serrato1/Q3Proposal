@@ -8,6 +8,7 @@ The app can be used by any consumer of tangible retail products. Our target mark
 * Links to that product's page on amazon
 * Price of the product
 * Comparison of Amazon's price to the product the user is comparing with's price
+* Shopping Cart items *(items added to their shopping cart)*
 ## List of Technologies
 * React
 * Redux
